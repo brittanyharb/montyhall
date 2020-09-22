@@ -1,0 +1,21 @@
+Package: montyhall
+Title: Running the Monty Hall Simulation
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Brittany",
+           family = "Harb",
+           role = c("author", "creator"),
+           email = "bharb@asu.edu",
+           comment = c(ORCID = "0000-0002-6666-8631"))
+Description: This package uses dplyr to run simulations of the Monty Hall Problem without 
+needing to establish the parameters for the simulations. There is even a function to allow 
+the simulation to run on a loop so that you are able to see the results of multiple simulations. 
+Have fun and may the odds be ever in your favor!
+Depends: 
+   dplyr
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
