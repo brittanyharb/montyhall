@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person(given = "Brittany",
            family = "Harb",
-           role = c("author", "creator"),
+           role = c("aut", "cre"),
            email = "bharb@asu.edu",
            comment = c(ORCID = "0000-0002-6666-8631"))
 Description: This package uses dplyr to run simulations of the Monty Hall Problem without needing to establish the parameters for the simulations. There is even a function to allow the simulation to run on a loop so that you are able to see the results of multiple simulations. Have fun and may the odds be ever in your favor!
